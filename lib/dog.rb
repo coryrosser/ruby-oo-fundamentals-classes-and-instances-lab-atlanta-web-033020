@@ -1,3 +1,6 @@
-class dog
-end 
+class dog(name)
+end
+
+dog.new fido 
+  
 
